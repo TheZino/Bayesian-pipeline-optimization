@@ -1,4 +1,4 @@
-# Bayesian-pipeline-optimization
+# Bayesian nights: Optimizing night photography rendering with Bayesian derivative-free methods
 
 Original code implementation from the paper "Bayesian nights: Optimizing night photography rendering with Bayesian derivative-free methods".
 
