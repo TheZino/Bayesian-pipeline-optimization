@@ -1,0 +1,12 @@
+bm3d==3.0.9
+ExifRead==3.0.0
+opencv-python==4.6.0.66
+optuna==2.10.1
+rawpy==0.17.0
+scikit-image==0.19.3
+torch==1.12.0
+torchvision==0.13.0
+pyexiftool==0.5.4
+pytorch-msssim==0.2.1
+ipdb==0.13.9
+scikit-learn==1.1.3
